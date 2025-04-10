@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px) {
+    body {
+        background-image: url(s.s.s.\ marke.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+    }
+    h1{ color: aliceblue;
+    }
+    p{color: aliceblue;}
+    section{
+        color: aliceblue;
+    }
+    
+ }
+ @media screen and (max-width: 768px) {
+    body {
+        background-image: url(s.s.s.\ marke.png);
+        background-size: 5100%;
+        background-repeat: no-repeat;
+    }
+    h1{ color: aliceblue;
+    }
+    p{color: aliceblue;}
+    section{
+        color: aliceblue;
+    }
+    
+}

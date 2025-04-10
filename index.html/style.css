@@ -1,4 +1,4 @@
-style {
+*body {
     margin: 0;
     padding: 0;
    
@@ -10,38 +10,22 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
  }
- h1{ color: aliceblue;
- }
- p{color: aliceblue;}
- section{
-    color: aliceblue;
- }
 
- @media screen and (max-width: 600px) {
-    body {
-        background-image: url(s.s.s.\ marke.png);
-        background-size: 100%;
-        background-repeat: no-repeat;
-    }
-    h1{ color: aliceblue;
-    }
-    p{color: aliceblue;}
-    section{
-        color: aliceblue;
-    }
-    
- }
- @media screen and (max-width: 768px) {
-    body {
-        background-image: url(s.s.s.\ marke.png);
-        background-size: 5100%;
-        background-repeat: no-repeat;
-    }
-    h1{ color: aliceblue;
-    }
-    p{color: aliceblue;}
-    section{
-        color: aliceblue;
-    }
-    
+ h1{ color: rgb(32, 34, 36)
 }
+ p{color: rgb(31, 32, 34);}
+
+ section{
+    color: rgb(22, 113, 194); }
+
+h1{
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(32, 34, 36);
+}
+
+.lulu{
+
+}
+  
